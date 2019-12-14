@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f58d073-cba6-4ed0-985c-d7d1382dfd6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a2dfbe63-1202-456f-a782-af6ee3b2f23a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ba73d10d-58d6-4135-8e7b-1e9fc4d50b64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c38f1a27-6610-4eb9-876b-c083b6d67d22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AvitoSQL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/itpark/service/HouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/itpark/service/HouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/itpark/service/HouseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/itpark/service/HouseService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UlgFVTwRCLJiz4FaTbKEmC9Z9d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/ru/itpark" />
+    <property name="last_opened_file_path" value="C:/IdeaProjects/ulmart" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Григорий\IdeaProjects\AvitoSQL" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.itpark.Main" />
+      <module name="AvitoSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itpark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:dbHouses" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:dbHouses" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7fce0d7f" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:dbHouses" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5fd1572a" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f58d073-cba6-4ed0-985c-d7d1382dfd6c" name="Default Changelist" comment="" />
+      <created>1575936492037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575936492037</updated>
+      <workItem from="1575936499304" duration="9500000" />
+      <workItem from="1576293393869" duration="783000" />
+    </task>
+    <task id="LOCAL-00001" summary="Подключение к БД">
+      <created>1575945644430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575945644430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Удаление .idea">
+      <created>1575945785667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575945785667</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Подключение к БД" />
+    <MESSAGE value="Удаление .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Удаление .idea" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576294083270">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="-1280" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.779/-1280.0.1024.779@-1280.0.1024.779" timestamp="1575936518210" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1576294083270" />
+    <state x="257" y="200" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576293822145">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="257" y="200" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1576293822145" />
+    <state x="-1075" y="319" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575936578481">
+      <screen x="-1280" y="0" width="1024" height="779" />
+    </state>
+    <state x="-1075" y="319" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1024.779/-1280.0.1024.779@-1280.0.1024.779" timestamp="1575936578481" />
+    <state x="-965" y="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1575936563216">
+      <screen x="-1280" y="0" width="1024" height="779" />
+    </state>
+    <state x="-965" y="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1024.779/-1280.0.1024.779@-1280.0.1024.779" timestamp="1575936563216" />
+    <state x="150" y="0" key="CommitChangelistDialog2" timestamp="1575945784558">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="150" y="0" key="CommitChangelistDialog2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575945784558" />
+    <state x="188" y="144" key="FileChooserDialogImpl" timestamp="1575943853543">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="188" y="144" key="FileChooserDialogImpl/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575943853543" />
+    <state width="981" height="196" key="GridCell.Tab.0.bottom" timestamp="1576294143192">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state width="666" height="196" key="GridCell.Tab.0.bottom/0.0.1024.779/-1280.0.1024.779@-1280.0.1024.779" timestamp="1575941933856" />
+    <state width="981" height="196" key="GridCell.Tab.0.bottom/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1576294143192" />
+    <state width="981" height="196" key="GridCell.Tab.0.center" timestamp="1576294143192">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state width="666" height="196" key="GridCell.Tab.0.center/0.0.1024.779/-1280.0.1024.779@-1280.0.1024.779" timestamp="1575941933856" />
+    <state width="981" height="196" key="GridCell.Tab.0.center/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1576294143192" />
+    <state width="981" height="196" key="GridCell.Tab.0.left" timestamp="1576294143192">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state width="666" height="196" key="GridCell.Tab.0.left/0.0.1024.779/-1280.0.1024.779@-1280.0.1024.779" timestamp="1575941933856" />
+    <state width="981" height="196" key="GridCell.Tab.0.left/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1576294143192" />
+    <state width="981" height="196" key="GridCell.Tab.0.right" timestamp="1576294143192">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state width="666" height="196" key="GridCell.Tab.0.right/0.0.1024.779/-1280.0.1024.779@-1280.0.1024.779" timestamp="1575941933856" />
+    <state width="981" height="196" key="GridCell.Tab.0.right/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1576294143192" />
+    <state x="234" y="132" width="540" height="524" key="StructurePopup" timestamp="1575945696242">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="234" y="132" width="540" height="524" key="StructurePopup/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575945696242" />
+    <state x="105" y="114" key="Vcs.Push.Dialog.v2" timestamp="1575945790933">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="105" y="114" key="Vcs.Push.Dialog.v2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575945790933" />
+    <state x="328" y="171" key="chooseDestDirectoryDialog" timestamp="1575937507636">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="328" y="171" key="chooseDestDirectoryDialog/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575937507636" />
+    <state x="229" y="40" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1575943900497">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="229" y="40" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575943900497" />
+    <state x="-978" y="39" width="433" height="543" key="dock-window-1" timestamp="1575937686979">
+      <screen x="-1280" y="0" width="1024" height="779" />
+    </state>
+    <state x="-978" y="39" width="433" height="543" key="dock-window-1/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575937686979" />
+    <state x="243" y="176" key="extract.method.dialog" timestamp="1575944717715">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="243" y="176" key="extract.method.dialog/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575944717715" />
+    <state x="-1059" y="15" key="refactoring.ChangeSignatureDialog" timestamp="1575942624143">
+      <screen x="-1280" y="0" width="1024" height="779" />
+    </state>
+    <state x="-1059" y="15" key="refactoring.ChangeSignatureDialog/0.0.1024.779/-1280.0.1024.779@-1280.0.1024.779" timestamp="1575942624143" />
+  </component>
+</project>

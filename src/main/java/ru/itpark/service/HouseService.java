@@ -12,7 +12,7 @@ public class HouseService {
 
     public List<House> houses() throws SQLException {
         return JdbcTemplate.executeQuery(
-                "jdbc:sqlite:C:\\Users\\Григорий\\IdeaProjects\\AvitoSQL\\dbHouses",
+                "jdbc:sqlite:dbHouses",
                 "SELECT id, price, rooms, district, underground FROM houses",
                 resultSet -> new House(
                         resultSet.getInt("id"),
